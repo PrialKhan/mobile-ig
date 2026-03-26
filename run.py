@@ -1,3 +1,3 @@
-import ig1
+import chabbish
 
-ig1.main()   # যদি main function থাকে Date 26
+chabbish.main()   # যদি main function থাকে Date 26
