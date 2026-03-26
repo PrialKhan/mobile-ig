@@ -1,3 +1,3 @@
-import ig8
+import ig26
 
-ig8.main()   # যদি main function থাকে
+ig26.main()   # যদি main function থাকে
