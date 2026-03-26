@@ -1,3 +1,3 @@
-import ig26
+import ig2
 
-ig26.main()   # যদি main function থাকে
+ig2.main()   # যদি main function থাকে Date 26
